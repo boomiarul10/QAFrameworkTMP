@@ -1,0 +1,3 @@
+12/25/2018 4:27 PM:	System.Runtime.InteropServices.COMException (0x800A03EC): Sorry, we couldn't find C:\Projects\AutomationFramework\LastRun_FailedTC.xls. Is it possible it was moved, renamed or deleted?
+   at Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)
+   at TB2.ExcelHelper.AddFailedTCToExcel() in D:\QA\AutomationFramework\FrameworkLibrary\Utility\ExcelHelper.cs:line 269

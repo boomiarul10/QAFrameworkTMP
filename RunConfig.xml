@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GlobalSettings>
+  <Environment>Prod</Environment>
+  <BuildVersion>7.25</BuildVersion>
+  <EnvironmentName>Production</EnvironmentName>
+  <ModuleToExecute>Browse</ModuleToExecute>
+  <DefaultBrowser>Firefox</DefaultBrowser>
+  <DeviceTesting>
+    <Execute>false</Execute>
+    <!--Iphone,Ipad,Android-->
+    <ExecuteonDevice>Android</ExecuteonDevice>
+  </DeviceTesting>
+  <TestCasesToExecute>
+    <RunAllTCs>true</RunAllTCs>
+    <RunFailedTc>false</RunFailedTc>
+  </TestCasesToExecute>
+  <Report>
+    <HTMLTemplate>ReportTemplate1</HTMLTemplate>
+	<ChartSummaryTemplate>SummaryReportTemplate1</ChartSummaryTemplate>
+    <SummaryReportTemplate>NoChartReport1</SummaryReportTemplate>
+    <ExcelTemplate>ReportTemplate1</ExcelTemplate>
+    <GenerateExcelReport>true</GenerateExcelReport>
+  </Report>
+  <MultiThreading>
+    <Execute>true</Execute>
+    <NoofThreads>3</NoofThreads>
+  </MultiThreading>
+  <MultiBrowser>
+    <Execute>false</Execute>
+    <AllBrowsers>false</AllBrowsers>
+    <BrowsersToExecute>Firefox, Chrome, IE</BrowsersToExecute>
+  </MultiBrowser>
+  <DataSource>excel</DataSource>
+  <QCDetails>
+    <UpdateResultsToQC>false</UpdateResultsToQC>
+    <QCServerName>http://qualitycenter-v10.homedepot.com/qcbin</QCServerName>
+    <QCDomainName>ONLINE</QCDomainName>
+    <QCProjectName>EBWCS</QCProjectName>
+    <QCUserName>PXS8677</QCUserName>
+    <QCPassword>tree$123</QCPassword>
+  </QCDetails>
+  <Email>
+    <SendEmail>false</SendEmail>
+    <emailTo>prashant_sajjan@homedepot.com</emailTo>
+    <emailFrom>prashant_sajjan@homedepot.com</emailFrom>
+    <emailSubject>HDC Automation Regression Status</emailSubject>
+    <RegardsFrom>Prashant</RegardsFrom>
+  </Email>
+</GlobalSettings>

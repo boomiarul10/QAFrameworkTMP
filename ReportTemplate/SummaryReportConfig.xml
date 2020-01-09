@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HTMLReport>
+  <ReportHeader>
+    <var name="RptHeader" value="Automation Execution Report"/>   
+  </ReportHeader>
+  <ReportStep>
+    <var name="TestCaseNo" value="Test Case No"/>
+    <var name="TestCaseName" value="Test Case Name"/>
+    <var name="Browser" value="Browser"/>
+    <var name="Priority" value="Priority"/>
+    <var name="TestCaseStatus" value="Test Case Status"/>
+  </ReportStep>
+  <ReportFooter>
+    <var name="StepsPassed" value="No of steps passed"/>
+    <var name="StepsFailed" value="No of steps failed"/>
+    <var name="ExecutionDate" value="Execution Date"/>
+    <var name="ExecutionMachine" value="Execution Machine"/>
+    <var name="TimeTaken" value="Time Taken"/>
+  </ReportFooter>
+</HTMLReport>

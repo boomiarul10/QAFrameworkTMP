@@ -1,0 +1,6 @@
+12/25/2018 3:24 PM:	System.NullReferenceException: Object reference not set to an instance of an object.
+   at TB2.ExcelDataHelper.SetExcelCommonData() in D:\QA\AutomationFramework\FrameworkLibrary\Utility\DataHelper.cs:line 92
+   at TB2.DataHelper.SetCommonData() in D:\QA\AutomationFramework\FrameworkLibrary\Utility\DataHelper.cs:line 19
+   at TB2.HelperClass.InitializeRunManager() in D:\QA\AutomationFramework\FrameworkLibrary\Utility\HelperClass.cs:line 104
+   at TB2.TestSetUp.InitializeSetUp() in D:\QA\AutomationFramework\FrameworkLibrary\Utility\TestSetUp.cs:line 14
+   at TB2.RunManager.RunTestCases() in D:\QA\AutomationFramework\FrameworkLibrary\RunManager.cs:line 37

@@ -1,0 +1,80 @@
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\TB2.exe.config
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.Support.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.Support.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\bin\Debug\WebDriver.Support.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\obj\Debug\TB2.csprojResolveAssemblyReference.cache
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\obj\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1 - Copy\AutomationFramework\TB2\obj\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\obj\Debug\TB2.csprojResolveAssemblyReference.cache
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\TB2.exe.config
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\obj\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1\AutomationFramework\TB2\obj\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\TB2.exe.config
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\obj\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\obj\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\TB2.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\TB2.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.Support.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.Support.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\bin\Debug\WebDriver.Support.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_1edited\AutomationFramework\TB2\obj\Debug\TB2.csprojResolveAssemblyReference.cache
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.dll
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\FrameworkLibrary.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\WebDriver.Support.xml
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\obj\Debug\TB2.csprojResolveAssemblyReference.cache
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\AutomationFramework.exe.config
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\AutomationFramework.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\bin\Debug\AutomationFramework.pdb
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\obj\Debug\AutomationFramework.exe
+D:\AutoamtionFramework\TB2\TB2_Sites_Try_1\AutomationFramework\TB2\obj\Debug\AutomationFramework.pdb

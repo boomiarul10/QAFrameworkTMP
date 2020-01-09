@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EAFEFE62-8BF6-4769-9FA9-51757C9B5606}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutomationFramework</RootNamespace>
+    <AssemblyName>AutomationFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FrameworkLibrary">
+      <HintPath>..\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.TDAPIOLELib">
+      <HintPath>..\..\Dlls\Interop.TDAPIOLELib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\Dlls\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Selenium.WebDriverBackedSelenium, Version=2.53.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dlls\Selenium.WebDriverBackedSelenium.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC\stdole\7.0.3300.0__b03f5f7f11d50a3a\stdole.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.Selenium.Core, Version=2.53.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dlls\ThoughtWorks.Selenium.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver, Version=2.53.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dlls\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=2.53.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dlls\WebDriver.Support.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DAO\CommonDataColumn.cs" />
+    <Compile Include="DAO\DataColumn.cs" />
+    <Compile Include="DataConstants.cs" />
+    <Compile Include="DBQueryStore\HDCQueries.cs" />
+    <Compile Include="Execution Classes\HomePage.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QCHelperTest.cs" />
+    <Compile Include="ReusableComponents.cs" />
+    <Compile Include="UIStore\TalentBrewUI.cs" />
+    <Compile Include="Utility\WebDriverHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\Automa.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\TB2.application" />
+    <None Include="obj\x86\Debug\TB2.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\TB2.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Debug\TB2.exe.manifest" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Debug\TB.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\TB.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Debug\TB2.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\TB2.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Debug\TB2_AutomationFramework.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\TB2_AutomationFramework.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Release\TB2.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Release\ResolveAssemblyReference.cache" />
+    <None Include="packages.config" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\TB2.application" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\TB2.exe.config.deploy" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\TB2.exe.deploy" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\TB2.exe.manifest" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\FrameworkLibrary.dll.deploy" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\IEDriverServer.exe.deploy" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\WebDriver.dll.deploy" />
+    <None Include="publish\Application Files\AutomationFramework_1_0_0_0\WebDriver.Support.dll.deploy" />
+    <None Include="publish\TB2.application" />
+    <None Include="TB2_AutomationFramework_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\x86\Debug\TB2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\TB2.exe" />
+    <Content Include="obj\x86\Debug\TB2.pdb" />
+    <Content Include="obj\x86\Debug\Interop.SRunner.dll" />
+    <Content Include="obj\x86\Debug\TB.csproj.FileListAbsolute.txt" />
+    <!--<Content Include="obj\x86\Debug\TB2.csproj.FileListAbsolute.txt" />-->
+    <Content Include="obj\x86\Debug\TB2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Release\TB2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Release\TB2.exe" />
+    <Content Include="obj\x86\Release\TB2.pdb" />
+    <Content Include="publish\setup.exe" />
+    <Content Include="ScreenShot\SampleScreenShot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DBHelper\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\x86\Debug\TempPE\" />
+    <Folder Include="obj\x86\Release\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
